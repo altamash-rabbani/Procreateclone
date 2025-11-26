@@ -249,7 +249,7 @@ nav ul {
     justify-content: flex-start;
     align-items: flex-start;
     gap: 10px;
-    padding: 10px 46px 0px 46px;
+    padding:20px 40px 0px 53px;
 }
 
 .btn1 button:first-child {
@@ -309,7 +309,7 @@ nav ul {
     width: 115%;
     height: auto;
     border-radius: 10px;
-    bottom: 120px;
+    bottom: 200px;
 
 }
 
@@ -321,7 +321,25 @@ nav ul {
 }
 
 .write2 h2 {
-    font-size: 40px;
+    font-size: 41px;
     font-weight: 500;
     color: #101010;
+}
+.write2 p {
+   font-size: 19px;
+    font-weight: 450;
+    color: #525252;
+    margin: 10px 0px;
+}
+#grid4btn{
+    position: relative;
+    z-index: 20;
+    padding: 12px 20px;
+    border-radius: 50px;
+    font-size: 13px;
+    border: none;
+    background-color: #262626;
+    color: white;
+    font-weight: 550;
+    margin: 10px 46px 0px;
 }
